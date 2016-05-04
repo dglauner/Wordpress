@@ -2,4 +2,4 @@
 A custom Wordpress theme I created
 
 ## Live URL
-<http://DeeringCommunityChurch.org>
+<http://www.DeeringCommunityChurch.org>
